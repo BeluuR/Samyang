@@ -1,0 +1,276 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(255, 115, 0);
+    flex-direction: row;
+    justify-content: space-between;
+     
+}
+
+.header__contenedor-img {
+    background-color:rgb(255, 115, 0) ;
+      
+}
+
+.header__imagen {
+    width: 150px;
+    height: 50px;
+}
+
+.header__nav {
+    text-align: center;
+    margin-top: 0%;
+}
+
+.header__nav-link {
+    font-size: small;
+    font-style: normal;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+    
+    
+}
+
+.header__carrito-link {
+    width: 50px;
+    height: 50px;
+    padding-right: 0%;
+    padding-left: 90%;
+    padding-top: 0%;
+    padding-bottom: 50%;
+}
+
+.header__carrito-img {
+    width: 50px;
+    height: 50px;
+}
+
+.header__login-link {
+    width: 50px;
+    height: 50px;  
+}
+
+.header__login-img {
+    width: 50px;
+    height: 50px;
+}
+
+
+
+.main__banner {
+    width: 100%;
+    height: 45%;
+    
+}
+
+.gallery{
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.gallery__img-1 {
+    width: 600px;
+    height: 600px;
+    float: left;
+}
+
+.gallery__img-2 {
+    width: 600px;
+    height: 600px;
+    float: right;
+    
+
+}
+
+.gallery__img-3 {
+    width: 600px;
+    height: 600px;
+    float: none;
+}
+
+.contenedor {
+    background-color: rgb(231, 46, 46);
+}
+
+.contenedor__title-1 {
+    font-weight: bold;
+    font-size: 95px;
+    font-family: cursive;
+    font-style: normal;
+    text-align: center;
+    color: white;
+}
+
+.contenedor__title-2 {
+    font-weight: bold;
+    font-size: 55px;
+    font-family: cursive;
+    font-style: normal;
+    text-align: center;
+    color: white;
+}
+
+.products {
+    text-align: center;
+}
+.products__link {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    text-align: center;
+    color: white;
+}
+
+.productos__iconos {
+    margin-right: 50%;
+    
+}
+
+.productos__iconos-ramen {
+    width: 75px;
+    height: 75px;
+    
+}
+
+.productos__iconos-snacks {
+    width: 75px;
+    height: 75px;
+   
+}
+
+.productos__iconos-pd {
+    width: 75px;
+    height: 75px;
+    
+    
+}
+
+.productos__iconos-salsa {
+    width: 75px;
+    height: 75px;
+    
+}
+
+.productos-disponibles__contenedor {
+    background-color: white;
+
+}
+
+.productos-disponibles__ramen-1-img {
+    width: 500px;
+    height: 350px;
+   
+}
+
+.productos-disponibles__ramen-1-link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: 50px;
+    color:rgb(231, 46, 46);
+}
+
+.productos-disponibles__ramen-2-img {
+    width: 500px;
+    height: 350px;
+    
+}
+
+.productos-disponibles__ramen-2-link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: 50px;
+    color:rgb(231, 46, 46);
+}
+
+.productos-disponibles__ramen-3-img {
+    width: 500px;
+    height: 350px;
+    
+}
+
+.productos-disponibles__ramen-3-link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: 50px;
+    color:rgb(231, 46, 46);
+}
+
+.productos-disponibles__ramen-4-img {
+    width: 500px;
+    height: 350px;
+    
+}
+
+.productos-disponibles__ramen-4-link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: 50px;
+    color:rgb(231, 46, 46);
+
+}
+
+.footer {
+    background-color:rgb(255, 115, 0) ;
+     
+}
+
+.footer__contenedor {
+    background-color:rgb(255, 115, 0) ;
+    
+}
+
+.footer__img-logo {
+    width: 150px;
+    height: 50px;
+}
+
+.footer__info {
+    text-align: center;
+}
+
+.footer__links {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.footer__info-legal {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    text-align: center;
+}
+
+.footer__redes-sociales-instagram-img {
+    width: 40px;
+    height: 40px;
+}
+
+.footer__redes-sociales-facebook-img {
+    width: 30px;
+    height: 40px;
+}
+
+.footer__redes-sociales-twitter-img {
+    width: 40px;
+    height: 40px;
+}
+
+.footer__redes-sociales-whatsapp-img {
+    width: 40px;
+    height: 40px;
+}
+
+
+
+
